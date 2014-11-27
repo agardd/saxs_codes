@@ -1,4 +1,4 @@
 saxs_codes
 ==========
 
-Codes dor processing x-ray small angle scattering data (SAXS)
+Codes for processing x-ray small angle scattering data (SAXS)
